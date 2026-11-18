@@ -6,31 +6,23 @@
 
 Data Science · GenAI Engineering · Machine Learning · Data Governance · Financial Intelligence
 
-Conecto dados, modelos e contexto de negócio para construir ferramentas de análise e apoio à decisão. Meu foco é desenvolver soluções com código claro, resultados verificáveis, explicabilidade e governança desde a origem dos dados.
+Conecto dados, modelos e contexto de negócio para construir ferramentas de análise e apoio à decisão, com código claro, resultados verificáveis, explicabilidade e governança.
 
-[LinkedIn](https://www.linkedin.com/in/matmarcondes/) · [Projetos no GitHub](https://github.com/matheusandrean?tab=repositories)
+## Portfólio central
 
-## Projetos em destaque
+**[Explorar o Analytics Portfolio](https://github.com/matheusandrean/Analytics_portfolio)** — código, dados demonstrativos, documentação e evolução dos projetos em um único repositório.
 
-| Projeto | O que explorar |
-| --- | --- |
-| [Credit Intelligence AI](https://github.com/matheusandrean/credit-intelligence-ai) | Apoio à análise de crédito com ML, SHAP, GenAI, RAG, FastAPI e Streamlit. Dados sintéticos, validação temporal e documentação de governança. |
-| [Credit Risk Intelligence](https://github.com/matheusandrean/credit-risk-intelligence-web) | Dashboard interativo de carteira, originação, risco e cobrança. Indicadores calculados sobre agregados sintéticos e limitações explícitas. [Explorar demo](https://matheusandrean.github.io/credit-risk-intelligence-web/). |
-| [Analytics Portfolio](https://github.com/matheusandrean/Analytics_portfolio) | Estudos de risco de crédito, churn, recompra e automação de relatórios, com notebooks, pipelines e documentação técnica. |
+- [Credit Intelligence AI](https://github.com/matheusandrean/Analytics_portfolio/tree/main/projects/credit-intelligence-ai): ML, SHAP, GenAI, RAG, FastAPI e Streamlit aplicados à análise de crédito.
+- [Credit Risk Intelligence Web](https://github.com/matheusandrean/Analytics_portfolio/tree/main/projects/credit-risk-intelligence-web): dashboard de carteira, originação, risco e cobrança com dados sintéticos.
+- [Estudos de Analytics e Machine Learning](https://github.com/matheusandrean/Analytics_portfolio/tree/main/ML): crédito, churn, recompra e automação de relatórios.
+- **Sentinel by GovernandoAI:** plataforma antifraude planejada para a próxima fase dentro do portfólio; ainda sem implementação ou resultados publicados.
 
-## Como trabalho
+Resultados de simulações e estudos não representam impacto financeiro observado em produção. Métodos, evidências e limitações estão na documentação de cada projeto.
 
-- **Data Science e Machine Learning:** perguntas de negócio, preparação dos dados, avaliação de modelos e explicabilidade.
-- **GenAI Engineering:** ferramentas tipadas, recuperação de contexto e respostas apoiadas em evidências.
-- **Data Governance:** qualidade, rastreabilidade, documentação e limites de uso dos dados e modelos.
-- **Financial Intelligence:** análise de carteira, risco, exposição e cenários para apoiar a investigação humana.
-
-As implementações e seus limites estão documentados nos respectivos repositórios. Resultados de simulações e estudos não representam impacto financeiro observado em produção.
-
-## Próximo projeto
-
-**Sentinel by GovernandoAI** — plataforma antifraude planejada para integrar modelos supervisionados, detecção de anomalias, explicabilidade e governança com dados sintéticos. RAG, AML e GenAI fazem parte da evolução prevista. O projeto ainda não possui resultados publicados.
+[LinkedIn](https://www.linkedin.com/in/matmarcondes/)
 
 ---
+
+Fonte deste README: [Analytics_portfolio/profile](https://github.com/matheusandrean/Analytics_portfolio/tree/main/profile). A cópia neste repositório especial atende ao mecanismo de perfil do GitHub.
 
 Identidade visual provisória em azul-marinho e ciano, até confirmação das cores oficiais da GovernandoAI.
